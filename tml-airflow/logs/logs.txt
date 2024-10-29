@@ -12312,3 +12312,4 @@ Already up to date.
 [INFO 2024-10-29_16:04:28] TML Solution Studio: git push Status for project shubhamproject1-eb48: Everything up-to-date
 [INFO 2024-10-29_16:09:03] Deleting topic iot-raw-data in tml_system_step_2_kafka_createtopic_dag-shubhamproject1-eb48.py
 [INFO 2024-10-29_16:09:06] Deleting topic iot-preprocess in tml_system_step_2_kafka_createtopic_dag-shubhamproject1-eb48.py
+[INFO 2024-10-29_16:09:10] Deleting topic iot-preprocess2 in tml_system_step_2_kafka_createtopic_dag-shubhamproject1-eb48.py
