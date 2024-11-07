@@ -12388,3 +12388,4 @@ origin	https://<personal access token hidden>@github.com/joshi-shubham/raspberry
 [INFO 2024-11-07_17:10:50] Docker DAG in tml_system_step_8_deploy_solution_to_docker_dag-cybersecuritywithprivategpt-eb48.py
 [INFO 2024-11-07_17:11:29] {'name': ['Project with slug "cybersecuritywithprivategpt-eb48" already exists.']}
 [INFO 2024-11-07_17:57:09] Deleting topic cisco-network-mainstream in tml_system_step_2_kafka_createtopic_dag-cybersecuritywithprivategpt-eb48.py
+[INFO 2024-11-07_17:57:12] Deleting topic cisco-network-preprocess in tml_system_step_2_kafka_createtopic_dag-cybersecuritywithprivategpt-eb48.py
