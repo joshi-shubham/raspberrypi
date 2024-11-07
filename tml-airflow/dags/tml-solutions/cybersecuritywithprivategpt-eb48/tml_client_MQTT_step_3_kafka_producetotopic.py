@@ -7,7 +7,7 @@ from datetime import datetime
 default_args = {
   'mqtt_broker' : '07bed4a05a7e431d9a29c9836f75946b.s1.eu.hivemq.cloud', # <<<****** Enter MQTT broker i.e. test.mosquitto.org
   'mqtt_port' : '8883', # <<<******** Enter MQTT port i.e. 1883    
-  'mqtt_subscribe_topic' : 'tml/iot', # <<<******** enter name of MQTT to subscribe to i.e. encyclopedia/#
+  'mqtt_subscribe_topic' : 'tml/cybersecurity', # <<<******** enter name of MQTT to subscribe to i.e. encyclopedia/#
   'mqtt_enabletls' : '1', # << Enable TLS if connecting to a cloud cluster like HiveMQ
 }
 
