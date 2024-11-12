@@ -12539,3 +12539,4 @@ Already up to date.
 [INFO 2024-11-12_18:22:43] Deleting topic cisco-network-preprocess in tml_system_step_2_kafka_createtopic_dag-cybersecurityprj2-eb48.py
 [INFO 2024-11-12_18:22:47] Deleting topic ml-data in tml_system_step_2_kafka_createtopic_dag-cybersecurityprj2-eb48.py
 [INFO 2024-11-12_18:22:50] Deleting topic prediction-data in tml_system_step_2_kafka_createtopic_dag-cybersecurityprj2-eb48.py
+[INFO 2024-11-12_18:22:53] Deleting topic cisco-network-privategpt in tml_system_step_2_kafka_createtopic_dag-cybersecurityprj2-eb48.py
