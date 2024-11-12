@@ -12513,3 +12513,4 @@ Already up to date.
 [INFO 2024-11-12_17:45:22] TML Solution Studio: git commit -a Status for project cybersecurityprj2-eb48: fatal: paths 'project ...' with -a does not make sense
 [INFO 2024-11-12_17:45:23] TML Solution Studio: git push Status for project cybersecurityprj2-eb48: Everything up-to-date
 [INFO 2024-11-12_17:50:57] Deleting topic iot-raw-data in tml_system_step_2_kafka_createtopic_dag-cybersecurityprj2-eb48.py
+[INFO 2024-11-12_17:51:02] Deleting topic iot-preprocess in tml_system_step_2_kafka_createtopic_dag-cybersecurityprj2-eb48.py
