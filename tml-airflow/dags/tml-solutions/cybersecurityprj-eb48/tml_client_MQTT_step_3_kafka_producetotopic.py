@@ -22,7 +22,7 @@ sys.dont_write_bytecode = True
 
 def mqttconnection():
      username="shubjoshi2056@gmail.com"
-     password="Joshi#123
+     password="Joshi#123"
 
      client = paho.Client(paho.CallbackAPIVersion.VERSION2)
      mqttBroker = default_args['mqtt_broker'] 
