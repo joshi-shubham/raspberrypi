@@ -27,7 +27,7 @@ default_args = {
  'delay' : '100', # change as needed
  'companyname' : 'otics',  # <<< *** Change as needed
  'consumerid' : 'streamtopic',  # <<< *** Leave as is
- 'consumefrom' : 'iot-preprocess',    # <<< *** Change as needed
+ 'consumefrom' : 'cisco-network-preprocess',    # <<< *** Change as needed
  'pgpt_data_topic' : 'cisco-network-privategpt',
  'producerid' : 'private-gpt',   # <<< *** Leave as is
  'identifier' : 'This is analysing TML output with privategpt',
@@ -35,7 +35,7 @@ default_args = {
  'pgptport' : '8001', # PrivateGPT listening on this port
  'preprocesstype' : '', # Leave as is 
  'partition' : '-1', # Leave as is 
- 'prompt': 'Do the device data show any malfunction or defects?', # Enter your prompt here
+ 'prompt': 'Do any of the values of the inbound or outbound packets look abnormal?', # Enter your prompt here
  'context' : 'This is IoT data from devices. The data are \
 anomaly probabilities for each IoT device. If voltage or current \
 probabilities are low, it is likely the device is not working properly.', # what is this data about? Provide context to PrivateGPT
