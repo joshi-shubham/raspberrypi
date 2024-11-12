@@ -12476,3 +12476,4 @@ Already up to date.
 [INFO 2024-11-12_17:31:32] TML Solution Studio: git push Status for project cybersecurityprj-eb48: Everything up-to-date
 [INFO 2024-11-12_17:35:41] {'name': ['Project with slug "cybersecuritywithprivategpt-eb48" already exists.']}
 [INFO 2024-11-12_17:36:47] Deleting topic cisco-network-mainstream in tml_system_step_2_kafka_createtopic_dag-cybersecuritywithprivategpt-eb48.py
+[INFO 2024-11-12_17:37:50] Deleting topic cisco-network-preprocess in tml_system_step_2_kafka_createtopic_dag-cybersecuritywithprivategpt-eb48.py
