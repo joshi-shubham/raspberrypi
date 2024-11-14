@@ -12596,3 +12596,4 @@ origin	https://<personal access token hidden>@github.com/joshi-shubham/raspberry
 [ERROR 2024-11-14_17:14:51] PrivateGPT Step 9 DAG in tml_system_step_9_privategpt_qdrant_dag-cybersecurityprj2-eb48.py 'StreamTopicDetails'
 [INFO 2024-11-14_17:32:05] Deleting topic cisco-network-mainstream in tml_system_step_2_kafka_createtopic_dag-cybersecurityprj2-eb48.py
 [INFO 2024-11-14_17:33:09] Deleting topic cisco-network-preprocess in tml_system_step_2_kafka_createtopic_dag-cybersecurityprj2-eb48.py
+[INFO 2024-11-14_17:34:12] Deleting topic ml-data in tml_system_step_2_kafka_createtopic_dag-cybersecurityprj2-eb48.py
