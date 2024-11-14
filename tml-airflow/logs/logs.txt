@@ -12644,3 +12644,4 @@ origin	https://<personal access token hidden>@github.com/joshi-shubham/raspberry
 [INFO 2024-11-14_18:13:52] Visualization DAG in tml_system_step_7_kafka_visualization_dag-cybersecurityprj2-eb48.py
 [INFO 2024-11-14_18:14:03] PrivateGPT Step 9 DAG in tml_system_step_9_privategpt_qdrant_dag-cybersecurityprj2-eb48.py
 [INFO 2024-11-14_18:14:09] Docker DAG in tml_system_step_8_deploy_solution_to_docker_dag-cybersecurityprj2-eb48.py
+[INFO 2024-11-14_18:15:34] {'name': ['Project with slug "cybersecurityprj2-eb48" already exists.']}
