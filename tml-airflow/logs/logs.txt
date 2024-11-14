@@ -12606,3 +12606,4 @@ origin	https://<personal access token hidden>@github.com/joshi-shubham/raspberry
 [INFO 2024-11-14_17:36:55] Docker DAG in tml_system_step_8_deploy_solution_to_docker_dag-cybersecurityprj2-eb48.py
 [INFO 2024-11-14_17:41:18] {'name': ['Project with slug "cybersecurityprj2-eb48" already exists.']}
 [INFO 2024-11-14_17:45:46] Deleting topic cisco-network-mainstream in tml_system_step_2_kafka_createtopic_dag-cybersecurityprj2-eb48.py
+[INFO 2024-11-14_17:46:50] Deleting topic cisco-network-preprocess in tml_system_step_2_kafka_createtopic_dag-cybersecurityprj2-eb48.py
