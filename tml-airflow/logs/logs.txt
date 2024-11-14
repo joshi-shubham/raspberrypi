@@ -12612,3 +12612,4 @@ origin	https://<personal access token hidden>@github.com/joshi-shubham/raspberry
 [INFO 2024-11-14_17:50:01] Deleting topic cisco-network-privategpt in tml_system_step_2_kafka_createtopic_dag-cybersecurityprj2-eb48.py
 [INFO 2024-11-14_17:50:12] MQTT producing DAG in tml_read_MQTT_step_3_kafka_producetotopic_dag-cybersecurityprj2-eb48.py
 [INFO 2024-11-14_17:50:16] Preprocessing DAG in tml_system_step_4_kafka_preprocess_dag-cybersecurityprj2-eb48.py
+[INFO 2024-11-14_17:50:18] Visualization DAG in tml_system_step_7_kafka_visualization_dag-cybersecurityprj2-eb48.py
