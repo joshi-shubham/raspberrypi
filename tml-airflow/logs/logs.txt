@@ -12616,3 +12616,4 @@ origin	https://<personal access token hidden>@github.com/joshi-shubham/raspberry
 [INFO 2024-11-14_17:50:29] PrivateGPT Step 9 DAG in tml_system_step_9_privategpt_qdrant_dag-cybersecurityprj2-eb48.py
 [INFO 2024-11-14_17:50:36] Docker DAG in tml_system_step_8_deploy_solution_to_docker_dag-cybersecurityprj2-eb48.py
 [INFO 2024-11-14_17:52:33] {'name': ['Project with slug "cybersecurityprj2-eb48" already exists.']}
+[ERROR 2024-11-14_17:57:07] PrivateGPT Step 9 DAG in tml_system_step_9_privategpt_qdrant_dag-cybersecurityprj2-eb48.py 'StreamTopicDetails'
