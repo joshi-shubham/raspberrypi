@@ -12693,3 +12693,4 @@ origin	https://<personal access token hidden>@github.com/joshi-shubham/raspberry
 [INFO 2024-11-19_16:56:27] Deleting topic cisco-network-mainstream in tml_system_step_2_kafka_createtopic_dag-cybersecurityprj2-eb48.py
 [INFO 2024-11-19_16:56:30] Deleting topic cisco-network-preprocess in tml_system_step_2_kafka_createtopic_dag-cybersecurityprj2-eb48.py
 [INFO 2024-11-19_16:56:33] Deleting topic ml-data in tml_system_step_2_kafka_createtopic_dag-cybersecurityprj2-eb48.py
+[INFO 2024-11-19_16:56:37] Deleting topic prediction-data in tml_system_step_2_kafka_createtopic_dag-cybersecurityprj2-eb48.py
