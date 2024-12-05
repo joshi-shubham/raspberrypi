@@ -12754,3 +12754,4 @@ origin	https://<personal access token hidden>@github.com/joshi-shubham/raspberry
 [INFO 2024-12-05_16:57:06] MQTT producing DAG in tml_read_MQTT_step_3_kafka_producetotopic_dag-cybersecurityprj2-eb48.py
 [INFO 2024-12-05_16:57:10] Preprocessing DAG in tml_system_step_4_kafka_preprocess_dag-cybersecurityprj2-eb48.py
 [INFO 2024-12-05_16:57:12] Visualization DAG in tml_system_step_7_kafka_visualization_dag-cybersecurityprj2-eb48.py
+[INFO 2024-12-05_16:57:23] PrivateGPT Step 9 DAG in tml_system_step_9_privategpt_qdrant_dag-cybersecurityprj2-eb48.py
